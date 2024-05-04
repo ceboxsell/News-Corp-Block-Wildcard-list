@@ -1,53 +1,30 @@
-# UK newspaper
 thesun.co.uk
 thetimes.co.uk
 thesundaytimes.co.uk
-pressassociation.com # News UK is one of 26 shareholders
-
-# Australia
+pressassociation.com 
 newscorpaustralia.com
 theaustralian.com.au
-aap.com.au # 45% ownership
+aap.com.au 
 news.com.au
 whereilive.com.au
-
-# Australia / NSW
 dailytelegraph.com.au
-
-# Australia / Victoria
 heraldsun.com.au
 geelongadvertiser.com.au
-
-# Australia / Queensland
 couriermail.com.au
 thesundaymail.com.au
 goldcoastbulletin.com.au
 cairnspost.com.au
 townsvillebulletin.com.au
-
-# Australia / South Australia
 adelaidenow.com.au
-
-# Australia / Western Australia
 perthnow.com.au
-communitynews.com.au #51% owned by News Corp
-
-# Australia / Tasmania
+communitynews.com.au 
 themercury.com.au
-
-# Australia / Northern Territory
 ntnews.com.au
-
-# Papua New Guinea
-postcourier.com.pg # 63% ownership
-
-# United States of America
+postcourier.com.pg 
 nypost.com
 pagesix.com
 wsj.com
 realtor.com
-
-# International
 dowjones.com
 barrons.com
 marketwatch.com
@@ -55,69 +32,39 @@ fnlondon.com
 heatst.com
 mansionglobal.com
 factiva.com
-spindices.com # joint venture
-talksport.com
+spindices.com talksport.com
 harpercollins.com
-
-# www subdomains
-
-# UK newspaper
-www.thesun.co.uk
-www.thetimes.co.uk
-www.thesundaytimes.co.uk
-www.pressassociation.com # News UK is one of 26 shareholders
-
-# Australia
-www.newscorpaustralia.com
-www.theaustralian.com.au
-www.aap.com.au # 45% ownership
-www.news.com.au
-www.whereilive.com.au
-
-# Australia / NSW
-www.dailytelegraph.com.au
-
-# Australia / Victoria
-www.heraldsun.com.au
-www.geelongadvertiser.com.au
-
-# Australia / Queensland
-www.couriermail.com.au
-www.thesundaymail.com.au
-www.goldcoastbulletin.com.au
-www.cairnspost.com.au
-www.townsvillebulletin.com.au
-
-# Australia / South Australia
-www.adelaidenow.com.au
-
-# Australia / Western Australia
-www.perthnow.com.au
-www.communitynews.com.au #51% owned by News Corp
-
-# Australia / Tasmania
-www.themercury.com.au
-
-# Australia / Northern Territory
-www.ntnews.com.au
-
-# Papua New Guinea
-www.postcourier.com.pg # 63% ownership
-
-# United States of America
-www.nypost.com
-www.pagesix.com
-www.wsj.com
-www.realtor.com
-
-# International
-www.dowjones.com
-www.barrons.com
-www.marketwatch.com
-www.fnlondon.com
-www.heatst.com
-www.mansionglobal.com
-www.factiva.com
-www.spindices.com # joint venture
-www.talksport.com
-www.harpercollins.com
+thesun.co.uk
+thetimes.co.uk
+thesundaytimes.co.uk
+pressassociation.com 
+newscorpaustralia.com
+theaustralian.com.au
+aap.com.au news.com.au
+whereilive.com.au
+dailytelegraph.com.au
+heraldsun.com.au
+geelongadvertiser.com.au
+couriermail.com.au
+thesundaymail.com.au
+goldcoastbulletin.com.au
+cairnspost.com.au
+townsvillebulletin.com.au
+adelaidenow.com.au
+perthnow.com.au
+communitynews.com.au 
+themercury.com.au
+ntnews.com.au
+postcourier.com.pg 
+nypost.com
+pagesix.com
+wsj.com
+realtor.com
+dowjones.com
+barrons.com
+marketwatch.com
+fnlondon.com
+heatst.com
+mansionglobal.com
+factiva.com
+spindices.com 
