@@ -4,3 +4,4 @@ To use in opnsense.  Go to Unbound DNS, blocklist, enable advanced mode and past
 
 https://raw.githubusercontent.com/ceboxsell/ncblock/main/blocklist.txt
 
+<img width="790" alt="image" src="https://github.com/ceboxsell/News-Corp-Block-Wildcard-list/assets/10136084/c3b007bd-1df2-45bf-9b95-3930474d57dc">
